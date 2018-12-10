@@ -2,4 +2,8 @@
 <resources>
     <dimen name="activity_horizontal_margin">16dp</dimen>
     <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="text_size_small">16sp</dimen>
+    <dimen name="text_size_medium">20sp</dimen>
+    <dimen name="padding_medium">16dp</dimen>
+    <dimen name="image_size_height">200dp</dimen>
 </resources>
